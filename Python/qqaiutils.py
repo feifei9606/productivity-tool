@@ -6,6 +6,8 @@ import base64
 import json
 import time
 import urllib
+import urllib.parse
+import urllib.request
 
 url_prefix = 'https://api.ai.qq.com/fcgi-bin/'
 
